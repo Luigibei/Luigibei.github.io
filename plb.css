@@ -89,3 +89,10 @@ background-color: rgb(151, 137, 164) ;
             margin-left: auto;
             margin-right: auto;
         }
+
+        #githubstats{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
