@@ -13,6 +13,12 @@ background-color: rgb(151, 137, 164) ;
   padding: 10px;
 }
 
+   #snake {
+    width: 50%;
+    margin: 0 auto;
+}    
+
+
     #footer{
         display: table;
         text-align: center;
