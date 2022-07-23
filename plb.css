@@ -5,6 +5,13 @@ background-color: rgb(151, 137, 164) ;
     background-color: rgb(151, 137, 167) ;
     }
     
+    #canvas{
+     display: table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+}
+
     #footer{
         display: table;
         text-align: center;
