@@ -95,21 +95,22 @@ header{
     }
 
 #titulo { 
-        display: table;
+        display: inline-block;
         text-align: center;
         margin-left: auto;
         margin-right: auto;}
 
-.menu {
-        list-style:none;
-        border:1px solid #c0c0c0;
-        float:left;
+       .menu {
+            list-style:none;
+            border:1px solid #c0c0c0;
+            float:left;
         }
 
         .menu li{
             position:relative;
             float:left;
             border-right:1px solid #c0c0c0;
+            display: inline-block;
             }
 
             .menu li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
@@ -127,14 +128,14 @@ header{
                 top:25px;
                 left:0;
                 background-color:#fff;
-                display:none;
+                display:inline-block;
                 }
 
             .menu li:hover ul, .menu li.over ul{display:block;}
 
             .menu li ul li{
              border:1px solid #c0c0c0;
-             display:block;
+             display:inline-block;
              width:150px;
              }
 
