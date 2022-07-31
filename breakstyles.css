@@ -88,19 +88,20 @@ header{
 
 
 
-#footer{
+#footer {
         display: table;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
     }
 
-#titulo{ display: table;
+#titulo { 
+        display: table;
         text-align: center;
         margin-left: auto;
         margin-right: auto;}
 
-.menu{
+.menu {
         list-style:none;
         border:1px solid #c0c0c0;
         float:left;
