@@ -85,3 +85,185 @@ header{
     outline-color: transparent;
     outline-style:solid;
 }
+
+body {font-family:Arial, Helvetica, sans-serif rgb(16, 69, 69);
+background-color: rgb(151, 137, 164) ;
+}
+ h2, h3, q, p {font-family:Arial, Helvetica, sans-serif rgb(16, 69, 69);
+    background-color: rgb(151, 137, 167) ;
+    }
+    
+    #canvas{
+     text-align: center; 
+  margin: 0 auto;
+  width: 70%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+   #snake {
+    width: 70%;
+    margin: 0 auto;
+}    
+
+
+    #footer{
+        display: table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+   #twitter{ display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    width:100%;
+}
+
+    #socialbadges{
+        display: table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width:100%;
+    }
+
+    #imagem{
+        display: table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width:100%;
+    }
+
+    #titulo{ display: table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;}
+
+        #gif{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            width:100%;
+        }
+
+        #badges{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #top{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #form{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;   
+        }
+
+        #formacao{ 
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #citacao{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #snake{ display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #githubstats{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #titulo{
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+
+        *{margin: 0; padding: 0;}
+
+        #body{
+        font-family: arial, helvetica, sans-serif;
+        font-size: 12px;
+        }
+        
+        .menu{
+        list-style:none;
+        border:1px solid #c0c0c0;
+        float:left;
+        }
+
+        .menu li{
+            position:relative;
+            float:left;
+            border-right:1px solid #c0c0c0;
+            }
+
+            .menu li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
+
+            .menu li a:hover{
+            background:#333;
+            color:#fff;
+            box-shadow:0 3px 10px 0 #CCC;
+            -webkit-box-shadow:0 3px 10px 0 #ccc;
+            text-shadow:0px 0px 5px #fff;
+            }
+                        
+            .menu li  ul li{
+                position:absolute;
+                top:25px;
+                left:0;
+                background-color:#fff;
+                display:none;
+                }
+
+            .menu li:hover ul, .menu li.over ul{display:block;}
+
+            .menu li ul li{
+             border:1px solid #c0c0c0;
+             display:block;
+             width:150px;
+             }
+
+            .menu ul a{color:#333; text-decoration:none; display:block}
+            .menu ul:hover ul, .menu li.over ul{display:block;}
+
+#lorem {
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+            }
+
+#ipsum {
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
