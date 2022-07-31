@@ -1,7 +1,6 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: auto;
-    margin-right: 35%; 
+    margin: auto; 
 }
 
 
@@ -87,14 +86,14 @@ header{
 
 
 
-#footer {
+     #footer {
         display: table;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
     }
 
-#titulo { 
+      #titulo { 
         display: inline-block;
         text-align: center;
         margin-left: auto;
