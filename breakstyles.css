@@ -127,3 +127,12 @@ header{
             .menu ul a{color:#333; text-decoration:none; display:block}
             .menu ul:hover ul, .menu li.over ul{display:block;}
 
+            #footer{
+        display: table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+         
